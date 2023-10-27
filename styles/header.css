@@ -4,3 +4,13 @@
     background-image: url("../img/Menu.svg");
     display: inline-block;
 }
+
+/* .cabecalho {
+    background-color: var(#fff);
+    display: flex;
+} */
+
+.cabecalho {
+    background-color: black;
+    display: flex;
+}
