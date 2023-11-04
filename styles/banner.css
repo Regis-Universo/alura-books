@@ -33,3 +33,8 @@
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 1em;
 }
+@media screen and (mim-width: 1024px) {
+    .banner__titulo {
+        font-size: 36px;
+    }
+}
