@@ -11,6 +11,15 @@ hr {
     display: none;
 }
 
+sup {
+    font-size: 20px;
+    color: var(--preto);
+}
+
+.rodape__paragrafo {
+    color: var(--preto);
+}
+
 @media screen and (min-width: 1024px) {
     .rodapé {
         display: flex;
